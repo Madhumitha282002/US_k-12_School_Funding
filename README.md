@@ -6,6 +6,8 @@ The "School Funding in the Spotlight" project, conducted by the Unit for Data Sc
 
 The analysis utilizes data from the National Center for Education Statistics (NCES), U.S. Census Bureau, and school finance records. The dataset spans from 2009 to 2019 and includes details on per-pupil funding across U.S. school districts. It also incorporates demographic information such as race/ethnicity, poverty levels, and the percentage of students in Special Education (SPED) or English Language Learner (ELL) programs.
 
+![Funding Gap Analysis](pupil_gap.jpeg)
+
 ## Executive Summary
 
 Financial resources play a critical role in providing quality education. However, the allocation of these resources is often unequal due to reliance on local property taxes. This project leverages data science methodologies to identify patterns and predict which states or school districts might underfund students.
