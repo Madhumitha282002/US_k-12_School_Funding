@@ -32,7 +32,7 @@ Findings suggest that performance disparities persist across different student s
 
 - **Disparities by School Type:** High school-level institutions (grades 9-12) receive more funding, especially in Maintenance and Operations (MRO) and Comprehensive Support and Improvement Grants (CSI-G). Conversely, alternative, hybrid, and early education schools (K-8) receive less funding.
 
-![Funding Gap by School Type](funding_schooltype.jpeg)
+![Funding Gap by School Type](funding_schooltype.jpg)
 
 - **Underperforming Subgroups:** K-8 schools exhibit significant performance gaps. Native American and African American students are particularly affected, emphasizing the need for tailored interventions and resource allocation.
 
@@ -41,7 +41,7 @@ Findings suggest that performance disparities persist across different student s
 - **Clustering Methodology:** Both the Elbow Method and Silhouette Score identified four distinct funding gap clusters.
 - **Poverty and Funding Gaps:** Analysis reveals that higher poverty levels are consistently associated with larger funding gaps. These gaps are further exacerbated by demographic factors such as race, SPED, and ELL status.
 
-![Funding Gap by cluster](funding_cluster.jpeg)
+![Funding Gap by cluster](funding_cluster.jpg)
 
 ### 3. Generalized Linear Model (GLM)
 
